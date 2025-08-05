@@ -20,5 +20,5 @@ Will save graphs to data/graphs
 
 ## Output Example
 ![Apple](data/graphs/AAPL_Anomalies_(Train).png)
-![SPY](data/graphs/GOOG_Anomalies_(Test).png)
+![SPY](data/graphs/AMZN_Anomalies_(Test).png)
 Overfitting?
